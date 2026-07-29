@@ -1,13 +1,13 @@
 Part 3 – CI/CD
 
-"For CI/CD, I would use GitHub Actions."
+For CI/CD, I would use GitHub Actions.
 
-Trigger on every push.
-Install project dependencies.
-Run lint checks.
-Run automated tests.
-Build the project.
-Deploy automatically to the staging environment after merging into the main branch.
+>Trigger on every push.
+>Install project dependencies.
+>Run lint checks.
+>Run automated tests.
+>Build the project.
+>Deploy automatically to the staging environment after merging into the main branch.
 
 Secrets
 
